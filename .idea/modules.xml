@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Basics.iml" filepath="$PROJECT_DIR$/.idea/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_treee/Binary_treee.iml" filepath="$PROJECT_DIR$/Binary_treee/Binary_treee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coding_Questions_topicswise/Coding_Questions_topicswise.iml" filepath="$PROJECT_DIR$/Coding_Questions_topicswise/Coding_Questions_topicswise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lists/DSA.iml" filepath="$PROJECT_DIR$/Lists/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception_handling/Exception_handling.iml" filepath="$PROJECT_DIR$/Exception_handling/Exception_handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File_handling/File_handling.iml" filepath="$PROJECT_DIR$/File_handling/File_handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mini_projects/Mini_projects.iml" filepath="$PROJECT_DIR$/Mini_projects/Mini_projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practise_experiments/Practise_experiments.iml" filepath="$PROJECT_DIR$/Practise_experiments/Practise_experiments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream_lamba/Stream.iml" filepath="$PROJECT_DIR$/Stream_lamba/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two_sum_and_sliding_window/Two_sum_and_sliding_window.iml" filepath="$PROJECT_DIR$/Two_sum_and_sliding_window/Two_sum_and_sliding_window.iml" />
+    </modules>
+  </component>
+</project>
