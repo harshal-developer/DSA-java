@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Rotate_array_by_d {
     public static void main(String[] args) {
-        int[] arr = { 1, 2, 3, 4, 5, 6 };
+        int[] arr = {1, 2, 3, 4, 5, 6 };
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter how many positions how want to shift the array to left : ");
         int position = sc.nextInt();
@@ -17,7 +17,7 @@ public class Rotate_array_by_d {
             }
             arr[arr.length - 1] = first;
         }
-
+        
         System.out.println(Arrays.toString(arr));
     }
 }

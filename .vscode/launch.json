@@ -6,6 +6,181 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LC_2942_find_words_containing_character",
+            "request": "launch",
+            "mainClass": "Common_problems.LC_2942_find_words_containing_character",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LC_560_Sub_array_sum_equals_K",
+            "request": "launch",
+            "mainClass": "Common_problems.LC_560_Sub_array_sum_equals_K",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LC_49_Group_Anagrams",
+            "request": "launch",
+            "mainClass": "Common_problems.LC_49_Group_Anagrams",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LC_242_Anagram",
+            "request": "launch",
+            "mainClass": "Common_problems.LC_242_Anagram",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LC_387_first_unique_character",
+            "request": "launch",
+            "mainClass": "Common_problems.LC_387_first_unique_character",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LC_1_two_sum",
+            "request": "launch",
+            "mainClass": "Common_problems.LC_1_two_sum",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "un_ordered",
+            "request": "launch",
+            "mainClass": "Characteristics.un_ordered",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "Thread_unsafe",
+            "request": "launch",
+            "mainClass": "Characteristics.Thread_unsafe",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "duplicate_keys_hashmap",
+            "request": "launch",
+            "mainClass": "Characteristics.duplicate_keys_hashmap",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "duplicate_keys_hashmap",
+            "request": "launch",
+            "mainClass": "src.duplicate_keys_hashmap",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "intern",
+            "request": "launch",
+            "mainClass": "intern",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "array_val_update",
+            "request": "launch",
+            "mainClass": "Practise_10_May.array_val_update",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "Anagram_checker",
+            "request": "launch",
+            "mainClass": "Hashing.Common_problems.Anagram_checker",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "Intersection",
+            "request": "launch",
+            "mainClass": "Hashing.Common_problems.Intersection",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "Union",
+            "request": "launch",
+            "mainClass": "Hashing.Common_problems.Union",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "check_duplicates",
+            "request": "launch",
+            "mainClass": "Hashing.Common_problems.check_duplicates",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "frequency_counter",
+            "request": "launch",
+            "mainClass": "Hashing.Common_problems.frequency_counter",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LC_66_Plus_one",
+            "request": "launch",
+            "mainClass": "LC_66_Plus_one",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "next_greatest_element",
+            "request": "launch",
+            "mainClass": "Stacks.Problems.next_greatest_element",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "reverse_stack",
+            "request": "launch",
+            "mainClass": "Stacks.Problems.reverse_stack",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "insert_at_bottom",
+            "request": "launch",
+            "mainClass": "Stacks.Problems.insert_at_bottom",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "reverse_words_in_string",
+            "request": "launch",
+            "mainClass": "Stacks.Problems.reverse_words_in_string",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "delete_mid",
+            "request": "launch",
+            "mainClass": "Stacks.Problems.delete_mid",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "two_Stacks_in_one_array",
+            "request": "launch",
+            "mainClass": "Stacks.Problems.two_Stacks_in_one_array",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "postfix_to_prefix",
+            "request": "launch",
+            "mainClass": "Stacks.Expression_Conversion.postfix_to_prefix",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
             "name": "prefix",
             "request": "launch",
             "mainClass": "Stacks.Evaluation.prefix",

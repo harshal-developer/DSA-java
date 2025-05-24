@@ -1,4 +1,4 @@
-package Stacks;
+package Stacks.Problems;
 
 public class min_Stack_Problem {
 //    Frist I tried my self then some imporovements by gpt
