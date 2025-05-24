@@ -10,7 +10,6 @@ public class searchInStrings {
         }else{
             System.out.println("not found");
         }
-
     }
     static boolean searchHere(String text, String target){
 //        int index = text.indexOf(target);

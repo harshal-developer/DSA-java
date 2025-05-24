@@ -1,5 +1,4 @@
 import java.util.*;
-import java.util.stream.Stream;
 
 public class Hashmap_1 {
     public static void main(String[] args) {
