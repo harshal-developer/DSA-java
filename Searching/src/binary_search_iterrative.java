@@ -33,8 +33,6 @@ public class binary_search_iterrative {
                 low = mid - 1;
             }
         }
-
         return  -1;
-
     }
 }

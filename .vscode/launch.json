@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LC_12_Integer_to_roman",
+            "request": "launch",
+            "mainClass": "Common_problems.LC_12_Integer_to_roman",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LC_13_Roman_to_integer",
+            "request": "launch",
+            "mainClass": "Common_problems.LC_13_Roman_to_integer",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LC_1299",
+            "request": "launch",
+            "mainClass": "LC_1299",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "mock_1",
+            "request": "launch",
+            "mainClass": "mock_1",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "Multiple_threads",
+            "request": "launch",
+            "mainClass": "Multi_threading.Multiple_threads",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LC_155_MinStack",
+            "request": "launch",
+            "mainClass": "Stacks.Problems.LC_155_MinStack",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LRU_Cache_Classical",
+            "request": "launch",
+            "mainClass": "LRU_Cache_Classical",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LRU_Cache_Classical",
+            "request": "launch",
+            "mainClass": "LinkedHashMaps.LRU_Cache_Classical",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
             "name": "LRUCache_implementation",
             "request": "launch",
             "mainClass": "Practise_29_May_Hashing.LRUCache_implementation",
