@@ -6,6 +6,7 @@ public class Hashmap_1 {
 //        ArrayList<Integer> arr = new ArrayList<>();
 //        LinkedList<Integer> ls = new LinkedList<>();
 
+        
         map.put(12, "text12");
         map.put(5, "text3");
         map.put(1, "text1");

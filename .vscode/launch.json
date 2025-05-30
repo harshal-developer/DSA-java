@@ -6,6 +6,174 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LC_12_Integer_to_roman",
+            "request": "launch",
+            "mainClass": "Common_problems.LC_12_Integer_to_roman",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LC_13_Roman_to_integer",
+            "request": "launch",
+            "mainClass": "Common_problems.LC_13_Roman_to_integer",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LC_1299",
+            "request": "launch",
+            "mainClass": "LC_1299",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "mock_1",
+            "request": "launch",
+            "mainClass": "mock_1",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "Multiple_threads",
+            "request": "launch",
+            "mainClass": "Multi_threading.Multiple_threads",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LC_155_MinStack",
+            "request": "launch",
+            "mainClass": "Stacks.Problems.LC_155_MinStack",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LRU_Cache_Classical",
+            "request": "launch",
+            "mainClass": "LRU_Cache_Classical",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LRU_Cache_Classical",
+            "request": "launch",
+            "mainClass": "LinkedHashMaps.LRU_Cache_Classical",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LRUCache_implementation",
+            "request": "launch",
+            "mainClass": "Practise_29_May_Hashing.LRUCache_implementation",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "intro",
+            "request": "launch",
+            "mainClass": "TreeMaps.intro",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LRU_Cache_HashMap_DLL_implementation",
+            "request": "launch",
+            "mainClass": "LinkedHashMap.LRU_Cache_HashMap_DLL_implementation",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "LRU_Cache_Implementation",
+            "request": "launch",
+            "mainClass": "LinkedHashMap.LRU_Cache_Implementation",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "intro",
+            "request": "launch",
+            "mainClass": "LinkedHashMap.intro",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "Threading",
+            "request": "launch",
+            "mainClass": "Mock_Dated_26_05_25.Threading",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "wrapper_classes",
+            "request": "launch",
+            "mainClass": "Mock_Dated_26_05_25.wrapper_classes",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "Custom_exception",
+            "request": "launch",
+            "mainClass": "Mock_Dated_26_05_25.Custom_exception",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "Exception_finally",
+            "request": "launch",
+            "mainClass": "Mock_Dated_26_05_25.Exception_finally",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "Singleton_class",
+            "request": "launch",
+            "mainClass": "Singleton_class",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "Singleton_class",
+            "request": "launch",
+            "mainClass": "Mock_Dated_26_05_25.Singleton_class",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "this_super",
+            "request": "launch",
+            "mainClass": "Mock_Dated_26_05_25.this_super",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "overloading_overrriding",
+            "request": "launch",
+            "mainClass": "Mock_Dated_26_05_25.overloading_overrriding",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "pillars",
+            "request": "launch",
+            "mainClass": "Mock_Dated_26_05_25.pillars",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "Mock_Dated_25_05_25.index",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "index",
+            "projectName": "Advanced_79ffb4f5"
+        },
+        {
+            "type": "java",
             "name": "LC_2942_find_words_containing_character",
             "request": "launch",
             "mainClass": "Common_problems.LC_2942_find_words_containing_character",

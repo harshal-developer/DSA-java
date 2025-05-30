@@ -24,7 +24,7 @@ public class min_Stack_Problem {
             return -1;
         }
         return stack2[index2];
-    }
+    }   
 
     static void stack1Pop(){
         if(isStack1Empty()){
